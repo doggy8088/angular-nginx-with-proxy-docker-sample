@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "https://dog.ceo",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
